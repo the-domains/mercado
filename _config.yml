@@ -1,0 +1,14 @@
+layout_spectrum: 0.4129314
+typography_spectrum: 0.865943
+color:
+  saturation: 0.3398252
+  lightness: 0.5758477
+  brandStrength: 0.1217767
+  rhythmicContrast: 0.3701729
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Mercado
